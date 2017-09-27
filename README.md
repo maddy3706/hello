@@ -1,2 +1,6 @@
-# hello
-just a demo project
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("Hello World");
+}
